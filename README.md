@@ -57,4 +57,4 @@ The notebook includes multiple Matplotlib visualizations that illustrate:
 Based on the analysis, the company should continue investing in Technology & Accessories products through increased inventory, promotions, and marketing efforts. Lower-performing categories should be evaluated for additional promotional strategies to improve sales performance.
 
 ### Video link for the Capstone -
-https://drive.google.com/file/d/1Eo4VgeAp0_m6HxVBnpQkzyyK1MeWjcu7/view?usp=drive_link
+https://drive.google.com/file/d/1Eo4VgeAp0_m6HxVBnpQkzyyK1MeWjcu7/view?usp=drivesdk
